@@ -15,6 +15,7 @@
 	<p>
 	Although there is already a color scheme configured, it is not mandatory to use it, you can edit the configuration file and leave it as you wish.
 	</p>
+	<img src="https://github.com/lollipopfvwm/gallery/blob/main/images/kitty-doble.png"/>
 	<p>
 	To know more see the <a href="https://github.com/lollipopfvwm/gallery">terminal kitty repository</a>
 	</p>
